@@ -1,0 +1,10 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "This is about, how to setup project workflows.",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Nakul Nagariya"
+}
