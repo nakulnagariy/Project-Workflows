@@ -4,11 +4,12 @@
   "description": "This is about, how to setup project workflows.",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/nakulnagariy/Project-Workflows.git"
   },
   "author": "Nakul Nagariya",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
     "gulp-util": "^3.0.8"
   }
 }
